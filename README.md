@@ -37,18 +37,3 @@ npm install we-cropper --save
 - [在mpvue中实现“自定义裁剪组件”](https://github.com/we-plugin/we-cropper/tree/master/packages/mpvue-cropper)
 
 - [常见问题 · FAQ](https://github.com/we-plugin/we-cropper/wiki/FAQ)
-
-<h2 align="center">Contributing</h2>
-
-```bash
-# step 01
-git clone https://github.com/we-plugin/we-cropper.git
-# step 02
-npm install
-#step 03
-npm run dev
-```
-欢迎任意形式的贡献
-
-<h2 align="center">Thanks</h2>
-@夏左左
